@@ -1,6 +1,6 @@
 {
   "name": "easyethers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "EasyEthers is a lightweight and user-friendly JavaScript library designed to simplify interactions with Ethereum blockchain.",
   "main": "index.js",
   "scripts": {
